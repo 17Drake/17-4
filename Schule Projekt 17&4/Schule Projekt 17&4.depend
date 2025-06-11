@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1745509509 source:c:\users\miche\desktop\schule projekt 17&4\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1749127085 source:c:\users\miche\onedrive\desktop\schule projekt 17&4\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<vector>
+	<string>
+	<chrono>
+	<thread>
+	<mmsystem.h>
+
